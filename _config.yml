@@ -3,9 +3,9 @@ title: 老王这个保守派
 subtitle: 个人博客
 description: 社会以结果平等作为首要目标，就意味着文明崩溃和野蛮回归。
 # 头像里面的标题
-avatarTitle: leopardpan
+#avatarTitle: leopardpan
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+#avatarDesc: iOS / 机器学习
 url: "https://blog.vimirikawang.com"
 baseurl: "" # the subpath of your site, e.g. /blog
 
