@@ -5,10 +5,10 @@ date: 2020-08-25
 tags: 微米
 ---
 
-微米*__自己弹奏、自己录音、自己后期制作__*的钢琴曲：
+微米*__自己弹奏、录音、后期制作__*的钢琴曲：
 
 #### YouTube MV： Part of Your World 
-### 动画片《小美人鱼》（Little Mermaid）主题曲
+### 动画片《小美人鱼》Little Mermaid 主题曲
 
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/8fJEcNaLfAU/0.jpg)](http://www.youtube.com/watch?v=8fJEcNaLfAU)
