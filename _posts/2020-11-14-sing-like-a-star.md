@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sing Like A Star 唱歌表演日
+title: 微米卡卡唱歌表演日
 date: 2020-11-15
 tags: 微米 卡卡
 ---
